@@ -32,7 +32,8 @@ Whether it's wrangling messy datasets or deploying scalable solutions in the clo
 
 ## 📈 GitHub Stats
 
-!MeePks's GitHub Stats
+![MeePks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeePks&show_icons=true&theme=gruvbox)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeePks&layout=compact&theme=gruvbox)
 
 ---
 
