@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Pikesh Maharjan
 
 🚀 Data Engineer | 🧠 Data Enthusiast | 🛠️ Automation Advocate  
-📍 Kathmandu, Nepal | 🧑‍💻 Building pipelines, crunching data, and making insights actionable.
+📍 Dubai, UAE | 🧑‍💻 Building pipelines, crunching data, and making insights actionable.
 
 ---
 
